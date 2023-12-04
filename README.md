@@ -1,10 +1,6 @@
 # Frontend_Interview_Questions
 
 ```
-
-
-
-
 🚀 Master Your Front-End Developer Interview with these 50 JavaScript Questions! 🚀
 
 1. What is the DOM?
